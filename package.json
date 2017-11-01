@@ -1,0 +1,21 @@
+{
+    "name": "site",
+    "version": "1.0.0",
+    "description": "Criando um site para demonstrar os Portfólio:",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/silvanoamaral/site.git"
+    },
+    "author": "Silvano Amaral",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/silvanoamaral/site/issues"
+    },
+    "homepage": "https://github.com/silvanoamaral/site#readme"
+}
